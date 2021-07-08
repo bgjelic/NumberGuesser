@@ -8,7 +8,7 @@ namespace NumberGuesser
         {
             //Head
             string appName = "Number Guesser";
-            string appVersion = " 1.0.0";
+            string appVersion = " 1.0.1";
             string appAuthor = "Me";
             //Color
             Console.ForegroundColor = ConsoleColor.Blue;
